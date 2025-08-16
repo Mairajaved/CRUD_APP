@@ -26,3 +26,10 @@ This project allows you to manage student records with Name, Email, Phone, and A
 1. **Clone or Download this Repository**
    ```bash
    git clone https://github.com/your-username/CRUD_APP.git
+
+ --
+ ## Run the Project
+
+Open browser and go to:
+
+http://localhost/CRUD_APP/index.php
